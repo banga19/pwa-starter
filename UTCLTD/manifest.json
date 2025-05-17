@@ -1,0 +1,49 @@
+{
+  "name": "Ultimo Trading Ltd",
+  "short_name": "Ultimo",
+  "description": "Ultimo Trading Ltd - Your trusted trading partner in Kenya.",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a3d62",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/home.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "categories": ["business", "finance", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "scope_extensions": [],
+  "iarc_rating_id": ""
+}
